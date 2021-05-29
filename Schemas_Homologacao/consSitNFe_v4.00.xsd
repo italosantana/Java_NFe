@@ -3,7 +3,7 @@
 	<xs:include schemaLocation="leiauteConsSitNFe_v4.00.xsd"/>
 	<xs:element name="consSitNFe" type="TConsSitNFe">
 		<xs:annotation>
-			<xs:documentation>Schema de validação XML dp Pedido de Consulta da Situação Atual da Nota Fiscal Eletrônica</xs:documentation>
+			<xs:documentation>Schema de validação XML do Pedido de Consulta da Situação Atual da Nota Fiscal Eletrônica</xs:documentation>
 		</xs:annotation>
 	</xs:element>
 </xs:schema>
